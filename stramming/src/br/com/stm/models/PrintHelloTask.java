@@ -1,5 +1,3 @@
-package crating_tasks;
-
 public class PrintHelloTask implements Runnable {
 
     private String name;
